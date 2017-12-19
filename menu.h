@@ -6,3 +6,4 @@ void menu_DisplayMain(void);
 void menu_DisplayAbout(void);
 void menu_PatchInformation(void);
 #endif
+
